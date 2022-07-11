@@ -1,0 +1,104 @@
+a {
+    text-decoration: none;
+
+}
+
+.main-navbar {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0.1rem;
+    border-radius: 0.9rem;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 0.6rem;
+    height: 7vh;
+    width: 10.4rem;
+
+
+}
+
+.logo-img {
+    border-radius: 2rem;
+}
+
+.nav-option {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    margin: 1rem;
+}
+
+.btnLink {
+    color: black;
+    border: 3px solid;
+    padding: 0.4rem;
+    border-radius: 0.6rem;
+}
+
+body {
+    background-image: url("./image/wp5418527.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.lotus {
+    width: 600px;
+}
+
+.main-cointain {
+    width: 150vh;
+    margin-left: 25vh;
+    margin-right: 25vh;
+    background-color: white;
+    color: black;
+    border: solid black;
+}
+
+.for-image {
+    background-image: url("./image/pexels-maahid-photos-3881104.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 134vh;
+}
+
+.title {
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+p {
+    text-align: center;
+}
+
+.main-img {
+    height: 80vh;
+    margin-left: 15vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.last-continer {
+    width: 100%;
+    border: solid black;
+    background-color: rgb(97, 216, 232);
+}
+
+li {
+    font-size: 25px;
+    display: flex;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0.1rem;
+    border-radius: 0.9rem;
+}
